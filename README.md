@@ -1,2 +1,1 @@
-# Data_Science_Learning
-Practicing stuff
+This repo is a collection of data science related projects completed .
